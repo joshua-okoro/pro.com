@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="login.inc.php" method="post">
+        <input type="text" name="name1">
+        <input type="text" name="lastname" id="">
+        <button name="submit" >login</button>
+    </form>
+</body>
+</html>
